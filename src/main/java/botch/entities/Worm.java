@@ -24,8 +24,8 @@ public class Worm {
     @SerializedName("snowballs")
     public Snowball snowball;
 
-    @SerializedName("roundUntilUnfrozen")
-    public int roundUntilUnfrozen;
+    @SerializedName("roundsUntilUnfrozen")
+    public int roundsUntilUnfrozen;
 
     @SerializedName("profession")
     public String profession;
