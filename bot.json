@@ -3,6 +3,6 @@
 	"email": "13519127@std.stei.itb.ac.id",
 	"nickName": "Botch",
 	"botLocation": "/target",
-	"botFileName": "Botch-jar.jar",
+	"botFileName": "Botch-jar-with-dependencies.jar",
 	"botLanguage": "java"
 }

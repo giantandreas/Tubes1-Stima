@@ -9,6 +9,9 @@ public class Opponent {
     @SerializedName("score")
     public int score;
 
+    @SerializedName("currentWormId")
+    public int currentWormId;
+
     @SerializedName("worms")
     public Worm[] worms;
 }

@@ -1,6 +1,7 @@
 package botch.command;
 
 import botch.enums.Direction;
+import botch.entities.Position;
 
 public class ShootCommand implements Command {
 
