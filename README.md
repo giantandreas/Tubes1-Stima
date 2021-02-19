@@ -5,16 +5,16 @@ Bot 13519119_Botch dibuat dengan implementasi algoritma greedy. Bot akan membaca
 
 
 ## Requirement:
-a. Java (minimal Java 8)\
-b. IntelIJ IDEA\
-c. NodeJS
+1. Java (minimal Java 8)\
+2. IntelIJ IDEA\
+3. NodeJS
 
 ## Cara Menggunakan
 
 1. Extract file Tubes1_13519119.zip ke dalam folder starter-pack tempat menjalankan permainan "Worms". starter-pack dapat di unduh dari link berikut : https://github.com/EntelectChallenge/2019-Worms/releases/tag/2019.3.2 
 
 2. Atur pemain/bot dan bot yang akan di lawan dengan cara mengganti nilai varriabel player yang ada di game-runner-config.json menjadi path menuju folder yang berisi bot.json\
-misalnya :
+misalnya :\
 {\
   ......\
   "player-a": "./Tubes1_13519127",\
