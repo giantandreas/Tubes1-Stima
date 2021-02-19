@@ -7,7 +7,7 @@ Bot 13519119_Botch dibuat dengan implementasi algoritma greedy. Bot akan membaca
 ## Requirement:
 a. Java (minimal Java 8)\
 b. IntelIJ IDEA\
-c. NodeJS\
+c. NodeJS
 
 ## Cara Menggunakan
 
@@ -21,7 +21,7 @@ misalnya :
   "player-b": "./reference-bot/javascript",\
   .....\
 }\
-\t untuk kasus jika folder di extract di "./starter-pack"
+ untuk kasus jika folder di extract di "./starter-pack"
 
 3. Jalankan permainan "Worms" dengan cara double-click run.bat.
 
