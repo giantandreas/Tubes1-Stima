@@ -5,8 +5,8 @@ Bot 13519119_Botch dibuat dengan implementasi algoritma greedy. Bot akan membaca
 
 
 ## Requirement:
-1. Java (minimal Java 8)\
-2. IntelIJ IDEA\
+1. Java (minimal Java 8)
+2. IntelIJ IDEA
 3. NodeJS
 
 ## Cara Menggunakan
